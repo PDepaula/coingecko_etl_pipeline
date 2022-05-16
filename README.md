@@ -64,16 +64,10 @@ This department specifically wants a a dataset that include the following catego
   - [Processing](#processing)
   - [Storage](#storage)
   - [Visualization](#visualization)
-- [Pipelines](#pipelines)
-  - [Stream Processing](#stream-processing)
-    - [Storing Data Stream](#storing-data-stream)
-    - [Processing Data Stream](#processing-data-stream)
-  - [Batch Processing](#batch-processing)
-  - [Visualizations](#visualizations)
 - [Demo](#demo)
 - [Conclusion](#conclusion)
 - [Follow Me On](#follow-me-on)
-- [Appendix](#appendix)
+
 
 
 # The Data Set
